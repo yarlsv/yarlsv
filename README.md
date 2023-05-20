@@ -1,6 +1,6 @@
 ### Hi there, I'm Yaroslav 👋
 
-[Leetcode](https://leetcode-stats-six.vercel.app/api?username=user0935y&theme=dark)
+[Leetcode] (https://leetcode-stats-six.vercel.app/api?username=user0935y&theme=dark)
 
 <div id="badges">
 https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
