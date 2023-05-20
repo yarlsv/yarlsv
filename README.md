@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user0935y)]
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user0935y)
 
 <!--
 **yarlsv/yarlsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
