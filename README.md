@@ -2,8 +2,8 @@
 ![](https://leetcode-stats-six.vercel.app/api?username=user0935y&theme=dark)
 
 <div id="badges">
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9(https://t.me/yarlsv)
+![LinkenIn] (https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
+![Telegram] (https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9) (https://t.me/yarlsv)
   
  </div>
 <!--
